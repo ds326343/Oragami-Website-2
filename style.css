@@ -1,0 +1,36 @@
+.heading{
+    display:flex;
+    text-align: center;
+    background-color: darkturquoise;
+    color: black;
+    justify-content: center;
+}
+
+.item{
+    display:flex; 
+    justify-content: space-evenly;
+    background-color: dimgray;
+}
+
+.video{
+    justify-content: center;
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
